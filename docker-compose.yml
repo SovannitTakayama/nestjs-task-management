@@ -10,4 +10,4 @@ services:
       - ./_docker_volumes/postgres:/var/lib/postgresql/data
     environment:
       - POSTGRES_DB=task_management
-      - POSTGRES_PASSWORD=Codium123!
+      - POSTGRES_PASSWORD=learning_nestjs
